@@ -15,7 +15,8 @@
 	"homepage": "https://github.com/ubyssey/chatbot#readme",
 	"dependencies": {
 		"body-parser": "~1.16",
-		"express": "~4.14"
+		"express": "~4.14",
+		"mongoose": "^4.8.2"
 	},
 	"devDependencies": {
 		"gulp": "^3.9.1",
